@@ -1,6 +1,6 @@
 # Shadow of War Sample Project
 
-### [Support Discord](https://discord.gg/u4zNjc2a)
+### [Support Discord](https://discord.gg/5FaCGrFYM3)
 
 ### Consider donating if you enjoy my work:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6P3CRK)
